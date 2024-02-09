@@ -21,6 +21,6 @@ logger = CustomLogger()
 logger2 = CustomLogger()
 print(logger)
 print(logger2)
-logger.log(" First log")
-logger.log(" Second log")
+logger.log(" First log  ")
+logger.log(" Second log  ")
 
